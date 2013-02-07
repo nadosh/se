@@ -10,5 +10,5 @@ package se;
  */
 public class NewClass {
     //test
-    
+    //test
 }
