@@ -1,7 +1,7 @@
 ;
 ;nada
 ; test
-; by nada
+; by
 
 	.data
 array:	.word	8	;beginning of array
