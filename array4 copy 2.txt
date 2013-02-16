@@ -1,6 +1,6 @@
 ;
 ;
-;
+; by nada
 
 	.data
 array:	.word	8	;beginning of array
