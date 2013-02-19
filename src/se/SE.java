@@ -16,9 +16,6 @@ public class SE {
     public static void main(String[] args) {
         ////hi
        
-        
-        //hi two 
-        /// test 3
         // TODO code application logic here
     }
 }
