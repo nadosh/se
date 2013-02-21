@@ -13,7 +13,7 @@ package se;
  * @author NaDoSh
  */
 public class NewClass {
-    //test
+    // nada test
     //test
     
     //test by nada
